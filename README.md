@@ -1,2 +1,2 @@
 # raspberryPi
-Raspberrypi repository
+Raspberry Pi repository
